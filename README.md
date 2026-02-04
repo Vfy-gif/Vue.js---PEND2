@@ -1,38 +1,37 @@
-# vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+## O que é o framework escolhido ?
+ -- O Vue.js é um framework do javaScript que ajuda na praticidade e na organização do projeto, tendo uma sintax clara e sendo facil de aprender.
 
-## Recommended IDE Setup
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+ ## Por que utilizá-lo ?
+ -- Para ter maior organização e praticidade do seu projeto, por conta de o JS o HTMl e o CSS ser no mesmo arquivo 
 
-## Recommended Browser Setup
+ ## Em quais cenários ele não é indicado ?
+ -- Ele não é utilizado quando o projeto é back-end, e também quando o projeto é muito pequeno e simples
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Como Instalar o Vue.js?
 
-## Customize configuration
+# 🚀 Projeto com Vue.js
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Este projeto utiliza **Vue 3** e pode ser executado tanto via **CDN** quanto com **NPM**, dependendo da necessidade do projeto.
 
-## Project Setup
+---
+
+## Vue via CDN
+
+```html
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+--
+
+## Vue via NPM
 
 ```sh
-npm install
+npm create vue@latest
 ```
 
-### Compile and Hot-Reload for Development
+## Para compilar Vue
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
