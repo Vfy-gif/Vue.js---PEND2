@@ -13,7 +13,7 @@
 
 ## Como Instalar o Vue.js?
 
-# 🚀 Projeto com Vue.js
+# Projeto com Vue.js
 
 Este projeto utiliza **Vue 3** e pode ser executado tanto via **CDN** quanto com **NPM**, dependendo da necessidade do projeto.
 
