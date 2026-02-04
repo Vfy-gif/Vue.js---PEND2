@@ -1,4 +1,6 @@
 
+# Projeto feito com o Framework Vue.js
+
 ## O que é o framework escolhido ?
  -- O Vue.js é um framework do javaScript que ajuda na praticidade e na organização do projeto, tendo uma sintax clara e sendo facil de aprender.
 
@@ -21,8 +23,8 @@ Este projeto utiliza **Vue 3** e pode ser executado tanto via **CDN** quanto com
 
 ```html
 <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-
---
+```
+---
 
 ## Vue via NPM
 
